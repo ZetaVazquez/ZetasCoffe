@@ -2,7 +2,7 @@
 
 Template Html creada por Edna Zaida Vazquez.
 
-#PROPRIETARY SOFTWARE LICENSE
+# PROPRIETARY SOFTWARE LICENSE
 Copyright (c) 2025 Zaida Vázquez.
 
 This software, including all source code and documentation (the "Software"), is proprietary and is the sole property of the copyright holder, Zaida Vázquez.
